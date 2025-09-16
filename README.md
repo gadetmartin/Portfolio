@@ -8,8 +8,8 @@ My name is **Martin GADET** and I'm a **Master 2 student in Human Computer Inter
 ---
 
 ### 📄 My Resume/CV
-- [Resume in English]()  
-- [CV in French]()
+- [Resume in English](CV/Resume_Martin_GADET.pdf)  
+- [CV in French](CV/CV_Martin_GADET.pdf)
 
 ---
 
