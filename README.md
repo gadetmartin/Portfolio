@@ -52,8 +52,6 @@ For these reasons you will find documents that are in French and others that are
 
 ### Master HCI projects
 
-### Master HCI projects
-
 - 🏥 [**Hospital Visitor Scheduling Device**]()  
   Design a device  and an its interface to scheduling visit in an hostpital  
   *Brainstorming, Design process, Sketching, Scenario*  
