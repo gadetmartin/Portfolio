@@ -104,7 +104,6 @@ For these reasons you will find documents that are in French and others that are
   Creation of a tangible and alterable surface made of 3D printed flat repetitive patterns  
   *Modeling, 3D printing, Laser cutting, XTool Creative Space, PrusaSlicer, Autodesk Fusion 360*  
   
-
 ---
 
 ### Contact
