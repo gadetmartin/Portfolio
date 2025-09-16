@@ -1,6 +1,6 @@
 # 📂 Portfolio
 
-## 🙋 Portfolio Martin GADET
+## 🙋 Portfolio of Martin GADET
 Welcome to my university projects portfolio  
 
 My name is **Martin GADET** and I'm a **Master 2 student in Human Computer Interaction** at *Université Paris-Saclay*.  
@@ -38,7 +38,7 @@ For these reasons you will find documents that are in French and others that are
 
 - 💡 [**Magic Light**]()  
   Development of a mobile app that changes the color of a light bulb  
-  *Android Studio, Java*
+  *Android Studio, Java, Phone simulation*
 
 - 🍎 [**Fruit AI Detector**]()  
   Development of an AI that can detect apples on a video  
@@ -46,7 +46,7 @@ For these reasons you will find documents that are in French and others that are
 
 - 🧱 **Blockade Game**  
   Development of the menus and the interface of a 3D game  
-  *Unity*
+  *Unity, UI/UX Experience, Game Design*
 
 ---
 
@@ -57,7 +57,7 @@ For these reasons you will find documents that are in French and others that are
   *Brainstorming, Design process, Sketching, Scenario*  
 
 - 🧩 [**Puzzle Game**]()  
-  Design of new and fun way to create menus for a puzzle game  
+  Creation of new and fun menus for a puzzle game  
   *MVC Model, Java, Swing*  
 
 - 🧪 [**VR ScienceFair**]()  
@@ -65,11 +65,11 @@ For these reasons you will find documents that are in French and others that are
   *Unity, PicoXR, Physics, 3D sounds*  
 
 - 🎨 [**Interactive Art about Feminism**]()  
-  Design of an interactive application that denounces the hatred of women on the internet  
+  Design an creation of an interactive application that denounces the hatred of women on the internet  
   *Java, Swing, Message app, Exhibition*  
 
 - ⌚ [**NaWatch**]()  
-  Design of a  wearable device to enhance daily user travels  
+  Design of a wearable device to enhance daily user travels  
   *Brainstorming, Sketching, Paper prototype video, Scenario*  
 
 - 🌍 [**Tangible Terra**]()  
@@ -92,7 +92,7 @@ For these reasons you will find documents that are in French and others that are
   Redesign Google slides functionalities to enhance its usage  
   *Brainstorming, Sketching, Paper protype video, High fidelity prototype, Interaction snippets*  
 
-- ⚾ [**Pitcher Trainer**]()  
+- ⚾ [**VR Pitcher Trainer**]()  
   Creation of a VR Game to train baseball pitchers   
   *Unity, HTC Vive, Physics*  
 
