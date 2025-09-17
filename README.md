@@ -44,7 +44,7 @@ For these reasons you will find documents that are in French and others that are
   Development of an AI that can detect apples on a video  
   *Python, YoloV8, Training*
 
-- 🧱 **Blockade Game**  
+- 🧱 [**Blockade Game**]()  
   Development of the menus and the interface of a 3D game  
   *Unity, UI/UX Experience, Game Design*
 
