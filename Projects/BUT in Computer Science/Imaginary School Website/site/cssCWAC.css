@@ -1,0 +1,393 @@
+@font-face{
+    font-family: 'pixel_out';
+    src: url("Police/8-bit_arcade/8-bit_Arcade_Out.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'pixel_in';
+    src: url("Police/8-bit_arcade/8-bit Arcade In.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'pixel2';
+    src: url("Police/pixel_2/Pixel-Regular.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family: 'pixel3';
+    src: url("Police/upheaval/upheavtt.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family: 'modius';
+    src: url("Police/modius/modius_regular.otf")format('opentype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'academy';
+    src: url("Police/academy/Academy.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'chakra';
+    src: url("Police/chakra/chakra.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+
+
+@media only screen and (max-width: 640px) {
+    .version:after {content: "Version mobile";}
+
+    body{
+        Background-color:black;
+        margin-top:100px;
+    }
+    
+    .logo{
+        top:0;
+        float:left;
+        width:6%;
+        height:auto;
+        display:none;
+    }
+    
+    .coeur{
+        position:absolute;
+        top:13px;
+        right:10px;
+        float:right;
+        width:12%;
+        height:auto;
+        display:none;
+    }
+
+    header{
+        position:fixed;
+        top:0;
+        right:0;
+        left:0;
+        z-index:3;
+        background-color:rgb(11, 11, 11);
+        display:block;
+        border-bottom:3px solid;
+        border-color:yellow;
+    }
+    
+    nav .menu a{
+        display:block;
+        text-decoration:none;
+        text-transform:uppercase;
+        font-family:pixel_in;
+        padding : 2% 4%;
+        font-size:45px;
+        color:yellow;
+        text-align:center;
+    }
+    
+    nav a:hover{
+        background-color: yellow;
+        color:black;
+    }
+    
+    footer{
+        background-color:rgb(23,23,23);
+        color:rgb(106,106,106);
+        width:100%;
+        height:130px;
+    }
+    
+    footer h2{
+        font-family:chakra;
+        font-size:20px;
+        text-align:center;
+    }
+    
+    footer p{
+        font-family:chakra;
+        font-size:15px;
+    }
+    
+    footer a{
+        text-decoration:none;
+        color:rgb(106,106,106);
+    }
+    
+    footer a:hover{
+        color:red;
+    }
+
+    .footerContact{
+        margin-left:19%;
+    }
+    
+    .footerMail{
+        border-right: 1px solid grey;
+    }
+    
+    footer div{
+        display:inline-block;
+        margin-left:10px;
+        padding-right: 10px;
+    }
+
+    .footerAdr{
+        display:none;
+    }
+    
+    .tetris{
+        width:100%;
+    }
+
+    .footerRapportODT{
+        margin-left:35%;
+    }
+    
+  }
+  
+  @media only screen and (min-width: 641px) and (max-width: 1000px) {
+    .version:after {content: "Version tablette";}
+
+    body{
+        Background-color:black;
+        margin-top:100px;
+    }
+    
+    .logo{
+        top:0;
+        float:left;
+        width:6%;
+        height:auto;
+    }
+    
+    .coeur{
+        position:absolute;
+        top:13px;
+        right:10px;
+        float:right;
+        width:12%;
+        height:auto;
+    
+    }
+    
+    .coeur:hover{
+        width:12%;
+        height:auto;
+        content: url("logo/pixel_heart.gif"); 
+    }
+    
+    header{
+        position:fixed;
+        top:0;
+        right:0;
+        left:0;
+        z-index:3;
+        background-color:rgb(11, 11, 11);
+        display:block;
+        border-bottom:3px solid;
+        border-color:yellow;
+    }
+    
+    .menu{
+        margin-left:auto;
+    }
+    
+    nav .menu a{
+        display:inline-block;
+        text-decoration:none;
+        text-transform:uppercase;
+        font-family:pixel_in;
+        padding : 2% 4%;
+        font-size:45px;
+        color:yellow;
+        text-align:center;
+    }
+    
+    nav a:hover{
+        background-color: yellow;
+        color:black;
+    }
+    
+    footer{
+        background-color:rgb(23,23,23);
+        color:rgb(106,106,106);
+        width:100%;
+        height:150px;
+    }
+    
+    footer h2{
+        font-family:chakra;
+        font-size:20px;
+        text-align:center;
+    }
+    
+    footer p{
+        font-family:chakra;
+        font-size:15px;
+    }
+    
+    footer a{
+        text-decoration:none;
+        color:rgb(106,106,106);
+    }
+    
+    footer a:hover{
+        color:red;
+    }
+    
+    .footerContact{
+        margin-left:14%;
+    }
+    
+    .footerMail{
+        border-right: 1px solid grey;
+    }
+    
+    .footerTel{
+        border-right: 1px solid grey;
+    }
+    
+    
+    footer div{
+        display:inline-block;
+        margin-left:10px;
+        padding-right: 10px;
+    }
+    
+    .tetris{
+        width:100%;
+    }
+
+    .footerRapportODT{
+        margin-left:32%;
+    }
+  } 
+  
+  @media only screen and (min-width: 1001px) {
+    .version:after {content: "Version ordinateur";}
+
+    body{
+        Background-color:black;
+        margin-top:100px;
+    }
+    
+    .logo{
+        top:0;
+        float:left;
+        width:6%;
+        height:auto;
+    }
+    
+    .coeur{
+        position:absolute;
+        top:13px;
+        right:10px;
+        float:right;
+        width:12%;
+        height:auto;
+    
+    }
+    
+    .coeur:hover{
+        width:12%;
+        height:auto;
+        content: url("logo/pixel_heart.gif"); 
+    }
+    
+    header{
+        position:fixed;
+        top:0;
+        right:0;
+        left:0;
+        z-index:3;
+        background-color:rgb(11, 11, 11);
+        display:block;
+        border-bottom:3px solid;
+        border-color:yellow;
+    }
+    
+    .menu{
+        margin-left:29%;
+    }
+    
+    nav .menu a{
+        display:inline-block;
+        text-decoration:none;
+        text-transform:uppercase;
+        font-family:pixel_in;
+        padding : 2% 4%;
+        font-size:45px;
+        color:yellow;
+        text-align:center;
+    }
+    
+    nav a:hover{
+        background-color: yellow;
+        color:black;
+    }
+    
+    footer{
+        background-color:rgb(23,23,23);
+        color:rgb(106,106,106);
+        width:100%;
+        height:230px;
+    }
+    
+    footer h2{
+        font-family:chakra;
+        font-size:20px;
+        text-align:center;
+    }
+    
+    footer p{
+        font-family:chakra;
+        font-size:15px;
+    }
+    
+    footer a{
+        text-decoration:none;
+        color:rgb(106,106,106);
+    }
+    
+    footer a:hover{
+        color:red;
+    }
+    
+    .footerContact{
+        margin-left:35%;
+    }
+    
+    .footerMail{
+        border-right: 1px solid grey;
+    }
+    
+    .footerTel{
+        border-right: 1px solid grey;
+    }
+    
+    
+    footer div{
+        display:inline-block;
+        margin-left:10px;
+        padding-right: 10px;
+    }
+    
+    .tetris{
+        width:100%;
+    }
+
+    .footerRapportODT{
+        margin-left:26%;
+    }
+  }

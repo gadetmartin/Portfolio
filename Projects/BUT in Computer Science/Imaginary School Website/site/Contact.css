@@ -1,0 +1,500 @@
+@font-face{
+    font-family: 'pixel_out';
+    src: url("Police/8-bit_arcade/8-bit_Arcade_Out.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'pixel_in';
+    src: url("Police/8-bit_arcade/8-bit Arcade In.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'pixel2';
+    src: url("Police/pixel_2/Pixel-Regular.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family: 'pixel3';
+    src: url("Police/upheaval/upheavtt.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family: 'modius';
+    src: url("Police/modius/modius_regular.otf")format('opentype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'academy';
+    src: url("Police/academy/Academy.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'chakra';
+    src: url("Police/chakra/chakra.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@media only screen and (max-width: 640px) {
+    .version:after {content: "Version mobile";}
+
+    .maps{
+        text-align:center;
+        margin-top:120px;
+    }
+
+    .maps iframe{
+        width:100%;
+    }
+    
+    .adresse{
+        font-family:chakra;
+        font-size:17px;
+        color:rgb(106,106,106);
+    }
+
+    .reseaux{
+        display:block;
+        margin-left:28%;
+        margin-top:30px;
+        color:yellow;
+        font-family:chakra;
+        font-size:17px;
+    }
+    
+    .reseaux div{
+        text-align:center;
+        margin:0px;
+        width:260px;
+        height:260px;
+    }
+    
+    .instaP{
+        width:200px;
+        height:200px;
+    }
+    
+    .ytP{
+        margin-top:10px;
+        width:180px;
+        height:180px;
+    }
+    
+    .twitterP{
+        width:200px;
+        height:200px;
+    }
+    
+    .discordP{
+        width:200px;
+        height:200px;
+    }
+    
+    .sloganReseaux{
+        text-align:center;
+        margin-top:200px;
+        color:yellow;
+        font-family:chakra;
+        font-size:25px;
+    }
+    
+    .staf{
+        width:100%;
+        margin-top:30px;
+        display:block;
+        margin-left:10%;
+    }
+    
+    .staf img{
+        margin:25px;
+        width:70%;
+        height:auto;
+    }
+    
+    form {
+        margin: 0 auto;
+        width : 80%; 
+        height : 50%;
+        padding: 2.2em;
+        border: 3px solid yellow;
+        background-color:rgb(23,23,23);
+        margin-bottom : 50px;
+      }
+      
+      form div + div {
+        margin-top: 1em;
+      }
+      
+      label {
+        display: inline-block;
+        width: 75px;
+        text-align: right;
+        color:grey;
+        font-family:chakra;
+      }
+      
+      input:focus, textarea:focus {
+        border-color: #000;
+      }
+      
+      textarea {
+        vertical-align: top;
+        resize : none;
+        width : 70%;
+        height : 70%;
+        font-size:1.7em;
+      }
+      
+      input {
+        width : 70%;
+        height : 40px;
+        font-size:1.1em;
+      }
+      
+      .bouton {
+        padding-left: 50px;
+      }
+      
+      button {
+        margin-left: 125px;
+      }
+    
+    .admin h2{
+        margin-left:26%;
+    }
+
+  }
+  
+  @media only screen and (min-width: 641px) and (max-width: 1000px) {
+    .version:after {content: "Version tablette";}
+
+    .maps{
+        text-align:center;
+        margin-top:120px;
+    }
+    
+    .adresse{
+        font-family:chakra;
+        font-size:17px;
+        color:rgb(106,106,106);
+    }
+    
+    .reseaux{
+        display:flex;
+        justify-content: space-around;
+        margin-left:400px;
+        margin-right:400px;
+        margin-top:30px;
+        color:yellow;
+        font-family:chakra;
+        font-size:17px;
+    }
+    
+    .reseaux div{
+        text-align:center;
+        margin:0px;
+        width:260px;
+        height:260px;
+    }
+    
+    .instaP{
+        filter: blur(3px);
+        margin-top:10px;
+        width:200px;
+        height:200px;
+    }
+    
+    .instaP:hover{
+        filter:none;
+    }
+    
+    .ytP{
+        filter: blur(4px);
+        width:180px;
+        height:180px;
+    }
+    
+    .ytP:hover{
+        filter:none;
+    }
+    
+    .twitterP{
+        margin-top:10px;
+        filter: blur(4px);
+        width:200px;
+        height:200px;
+    }
+    
+    .twitterP:hover{
+        filter:none;
+    }
+    
+    .discordP{
+        margin-top:10px;
+        filter: blur(4px);
+        width:200px;
+        height:200px;
+    }
+    
+    .discordP:hover{
+        filter:none;
+    }
+    
+    .sloganReseaux{
+        text-align:center;
+        margin-top:130px;
+        color:yellow;
+        font-family:chakra;
+        font-size:25px;
+    }
+    
+    .staf{
+        width:100%;
+        margin-top:30px;
+        display:block;
+    }
+    
+    .staf img{
+        margin:25px;
+        width:27%;
+        height:auto;
+    }
+    
+    .directeur:hover{
+        filter: drop-shadow(10px 10px 10px grey)
+    }
+    
+    .secretariat:hover{
+        filter: drop-shadow(10px 10px 10px grey)
+    }
+    
+    .cantine:hover{
+        filter: drop-shadow(10px 10px 10px grey)
+    }
+    
+    form {
+        margin: 0 auto;
+        width : 50%; 
+        height : 50%;
+        padding: 2.2em;
+        border: 3px solid yellow;
+        background-color:rgb(23,23,23);
+        margin-bottom : 50px;
+      }
+      
+      form div + div {
+        margin-top: 1em;
+      }
+      
+      label {
+        display: inline-block;
+        width: 75px;
+        text-align: right;
+        color:grey;
+        font-family:chakra;
+      }
+      
+      input:focus, textarea:focus {
+        border-color: #000;
+      }
+      
+      textarea {
+        vertical-align: top;
+        resize : none;
+        width : 70%;
+        height : 70%;
+        font-size:1.7em;
+      }
+      
+      input {
+        width : 70%;
+        height : 40px;
+        font-size:1.1em;
+      }
+      
+      .bouton {
+        padding-left: 50px;
+      }
+      
+      button {
+        margin-left: 125px;
+      }
+    
+    .admin h2{
+        margin-left:26%;
+    }
+
+  } 
+  
+  @media only screen and (min-width: 1001px) {
+    .version:after {content: "Version ordinateur";}
+
+    .maps{
+        text-align:center;
+        margin-left:400px;
+        margin-right:400px;
+        margin-top:120px;
+    }
+    
+    .adresse{
+        font-family:chakra;
+        font-size:17px;
+        color:rgb(106,106,106);
+    }
+    
+    .reseaux{
+        display:flex;
+        justify-content: space-around;
+        margin-left:400px;
+        margin-right:400px;
+        margin-top:30px;
+        color:yellow;
+        font-family:chakra;
+        font-size:17px;
+    }
+    
+    .reseaux div{
+        text-align:center;
+        margin:0px;
+        width:260px;
+        height:260px;
+    }
+    
+    .instaP{
+        filter: blur(3px);
+        width:200px;
+        height:200px;
+    }
+    
+    .instaP:hover{
+        filter:none;
+    }
+    
+    .ytP{
+        filter: blur(4px);
+        margin-top:10px;
+        width:180px;
+        height:180px;
+    }
+    
+    .ytP:hover{
+        filter:none;
+    }
+    
+    .twitterP{
+        filter: blur(4px);
+        width:200px;
+        height:200px;
+    }
+    
+    .twitterP:hover{
+        filter:none;
+    }
+    
+    .discordP{
+        filter: blur(4px);
+        width:200px;
+        height:200px;
+    }
+    
+    .discordP:hover{
+        filter:none;
+    }
+    
+    .sloganReseaux{
+        text-align:center;
+        margin-top:130px;
+        color:yellow;
+        font-family:chakra;
+        font-size:25px;
+    }
+    
+    .staf{
+        width:100%;
+        margin-top:30px;
+        border-top: 4px solid yellow;
+        display:flex;
+        justify-content: space-around;
+    }
+    
+    .staf img{
+        margin:25px;
+        width:20%;
+        height:auto;
+    }
+    
+    .directeur:hover{
+        filter: drop-shadow(10px 10px 10px grey)
+    }
+    
+    .secretariat:hover{
+        filter: drop-shadow(10px 10px 10px grey)
+    }
+    
+    .cantine:hover{
+        filter: drop-shadow(10px 10px 10px grey)
+    }
+    
+    form {
+        margin: 0 auto;
+        width : 25%; 
+        height : 50%;
+        padding: 2.2em;
+        border: 3px solid yellow;
+        background-color:rgb(23,23,23);
+        margin-bottom : 50px;
+      }
+      
+      form div + div {
+        margin-top: 1em;
+      }
+      
+      label {
+        display: inline-block;
+        width: 75px;
+        text-align: right;
+        color:grey;
+        font-family:chakra;
+      }
+      
+      input:focus, textarea:focus {
+        border-color: #000;
+      }
+      
+      textarea {
+        vertical-align: top;
+        resize : none;
+        width : 70%;
+        height : 70%;
+        font-size:1.7em;
+      }
+      
+      input {
+        width : 70%;
+        height : 40px;
+        font-size:1.1em;
+      }
+      
+      .bouton {
+        padding-left: 50px;
+      }
+      
+      button {
+        margin-left: 125px;
+      }
+    
+    .admin h2{
+        margin-left:26%;
+    }
+    
+  }

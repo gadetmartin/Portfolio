@@ -1,0 +1,211 @@
+@font-face{
+    font-family: 'pixel_out';
+    src: url("Police/8-bit_arcade/8-bit_Arcade_Out.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'pixel_in';
+    src: url("Police/8-bit_arcade/8-bit Arcade In.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'pixel2';
+    src: url("Police/pixel_2/Pixel-Regular.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family: 'pixel3';
+    src: url("Police/upheaval/upheavtt.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+@font-face{
+    font-family: 'modius';
+    src: url("Police/modius/modius_regular.otf")format('opentype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'academy';
+    src: url("Police/academy/Academy.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@font-face{
+    font-family: 'chakra';
+    src: url("Police/chakra/chakra.ttf")format('truetype');
+    font-weight:normal;
+    font-style:normal;
+}
+
+@media only screen and (max-width: 640px) {
+    .version:after {content: "Version mobile";}
+
+    .mainForm{
+        margin-top:200px;
+    }
+    
+    .mainForm h2{
+        margin-left: 15%;
+        color:yellow;
+        font-family:pixel_in;
+        font-size:50px;
+    }
+    
+    .mainForm p{
+        text-align:center;
+        margin-left:10px;
+        margin-right:10px;
+        color:rgb(163, 158, 158);
+        font-family:chakra;
+        font-size:17px;
+    }
+    
+    .mainForm h3{
+        text-align:center;
+        color:yellow;
+        font-family:chakra;
+        font-size:20px;
+    }
+    
+    .mainForm h4{
+        text-align:center;
+        color:rgb(35, 112, 255);
+        font-family:chakra;
+        font-size:18px;
+    }
+    
+    .mainForm div{
+        background-color:rgb(23,23,23);
+        width:80%;
+        border: 1px solid yellow;
+    }
+    
+    .mainForm section{
+        margin-left:18%;
+    }
+    
+    .mainForm img{
+        height:300px;
+        width:auto;
+        margin-left:20%;
+    }
+
+  }
+  
+  @media only screen and (min-width: 641px) and (max-width: 1000px) {
+    .version:after {content: "Version tablette";}
+
+    .mainForm{
+        margin-top:10%;
+    }
+    
+    .mainForm h2{
+        margin-left: 29%;
+        color:yellow;
+        font-family:pixel_in;
+        font-size:50px;
+    }
+    
+    .mainForm p{
+        text-align:center;
+        margin-left:10px;
+        margin-right:10px;
+        color:rgb(163, 158, 158);
+        font-family:chakra;
+        font-size:17px;
+    }
+    
+    .mainForm h3{
+        text-align:center;
+        color:yellow;
+        font-family:chakra;
+        font-size:20px;
+    }
+    
+    .mainForm h4{
+        text-align:center;
+        color:rgb(35, 112, 255);
+        font-family:chakra;
+        font-size:18px;
+    }
+    
+    .mainForm div{
+        background-color:rgb(23,23,23);
+        width:80%;
+        border: 1px solid yellow;
+    }
+    
+    .mainForm section{
+        margin-left:18%;
+    }
+    
+    .mainForm img{
+        height:300px;
+        width:auto;
+        margin-left:35%;
+    }
+
+  } 
+  
+  @media only screen and (min-width: 1001px) {
+    .version:after {content: "Version ordinateur";}
+
+    .mainForm{
+        margin-top:10%;
+    }
+    
+    .mainForm h2{
+        margin-left: 29%;
+        color:yellow;
+        font-family:pixel_in;
+        font-size:50px;
+    }
+    
+    .mainForm p{
+        text-align:center;
+        margin-left:10px;
+        margin-right:10px;
+        color:rgb(163, 158, 158);
+        font-family:chakra;
+        font-size:17px;
+    }
+    
+    .mainForm h3{
+        text-align:center;
+        color:yellow;
+        font-family:chakra;
+        font-size:20px;
+    }
+    
+    .mainForm h4{
+        text-align:center;
+        color:rgb(35, 112, 255);
+        font-family:chakra;
+        font-size:18px;
+    }
+    
+    .mainForm div{
+        background-color:rgb(23,23,23);
+        width:80%;
+        border: 1px solid yellow;
+    }
+    
+    .mainForm section{
+        margin-left:18%;
+    }
+    
+    .mainForm img{
+        height:300px;
+        width:auto;
+        margin-left:42%;
+    }
+
+  }
