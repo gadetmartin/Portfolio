@@ -1,0 +1,7 @@
+path: C:\Users\marti\Desktop\Portfolio\BUT informatique\S5_FruitDetector\ia-fruit-detector\data #à changer et mettre le absolute path de votre machine, relative ne marche pas
+train: images/train
+val: images/train
+
+# Classes
+names:
+  0: apple
