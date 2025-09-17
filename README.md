@@ -20,7 +20,7 @@ For these reasons you will find documents that are in French and others that are
 
 ### BUT in Computer Science projects
 
-- 🏀 [**Basketball Club Database**]()  
+- 🏀 [**Basketball Club Database**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Basketball%20Club%20Database)  
   Creation, insertions and requests of a sport club database  
   *MCD, SQL, MySQL, SGBD*
 
