@@ -1,1 +1,0 @@
-Etape 1 : Aller dans config.yaml et changer le path absolute du répertoire où se trouve le dossier data
