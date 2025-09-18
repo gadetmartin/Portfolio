@@ -4,6 +4,8 @@
   Development of a mobile app that changes the color of a light bulb  
   *Android Studio, Java, Phone simulation*
 
+---
+
 ### Contact
 
 👤 Martin GADET  
