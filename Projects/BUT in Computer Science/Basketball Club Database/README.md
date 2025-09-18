@@ -6,7 +6,7 @@
 **Language**: French  
 **Team size**: 2  
 **Programming language**: SQL  
-**Software**: MySQL, Looping, MOCODO  
+**Software/Website**: MySQL, Looping, MOCODO  
 
 ### Project Description
 
@@ -17,15 +17,15 @@ Using MySQL, we started to create the database and insert data with SQL insertio
 ### Document Descriptions
 
 - [rapport.pdf](rapport.pdf)  
-Report document that explains the goal of the project, describes the data dictionary, and explains how we found the data.
+Report document that explains the goal of the project, describes the data dictionary, and explains how we found the data
 - [MCD.jpg](MCD.jpg)  
-Image of the conceptual data model showing the different classes and their connections.
+Image of the conceptual data model showing the different classes and their connections
 - [SR.jpg](SR.jpg)  
-Image of the relational schema showing the relationships between classes.
+Image of the relational schema showing the relationships between classes
 - [data_base](data_base)  
-Folder containing the BD_basket.db file, which is the database itself.
+Folder containing the BD_basket.db file, which is the database itself
 - [data_base/requêtes](data_base/requêtes)  
-Folder containing SQL files to make queries on the database.
+Folder containing SQL files to make queries on the database
 
 ---
 
