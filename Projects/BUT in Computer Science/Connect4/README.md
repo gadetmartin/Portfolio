@@ -4,6 +4,8 @@
   Development of the famous Connect4 game  
   *Python, PyGame, Online, Menu*
 
+---
+
 ### Contact
 
 👤 Martin GADET  
