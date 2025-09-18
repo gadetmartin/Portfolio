@@ -17,4 +17,3 @@ Here is the folder where you find my CV in French and my Resume in English
 📞 06 31 60 40 53  
 🎓 Master Human-Computer Interaction  
 🏫 Université Paris-Saclay
-
