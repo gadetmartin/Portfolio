@@ -4,6 +4,8 @@
   Creation, insertions and requests of a sport club database  
   *MCD, SQL, MySQL, SGBD*
 
+---
+
 ### Contact
 
 👤 Martin GADET  
