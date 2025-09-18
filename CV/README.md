@@ -1,6 +1,6 @@
 # 📂 CV / Resume
 
-Here is the folder where you find my CV in French and my Resume in English
+Here is the folder where you will find my CV in French and my Resume in English
 
 ---
 
