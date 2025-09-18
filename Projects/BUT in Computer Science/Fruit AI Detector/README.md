@@ -4,6 +4,8 @@
   Development of an AI that can detect apples on a video  
   *Python, YoloV8, Training*
 
+---
+
 ### Contact
 
 👤 Martin GADET  
