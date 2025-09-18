@@ -4,6 +4,8 @@
   Creation and development of a website for a fake school  
   *HTML, CSS*
 
+---
+
 ### Contact
 
 👤 Martin GADET  
