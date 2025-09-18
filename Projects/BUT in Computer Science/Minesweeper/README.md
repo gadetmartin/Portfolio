@@ -4,6 +4,8 @@
   Development of the famous Minesweeper game  
   *C#*
 
+---
+
 ### Contact
 
 👤 Martin GADET  

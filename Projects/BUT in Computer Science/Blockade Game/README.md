@@ -4,6 +4,8 @@
   Development of the menus and the interface of a 3D game  
   *Unity, UI/UX Experience, Game Design*
 
+---
+
 ### Contact
 
 👤 Martin GADET  
