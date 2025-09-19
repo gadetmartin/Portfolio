@@ -4,6 +4,25 @@
   Development of the famous Minesweeper game  
   *C#*
 
+### Characteristics
+
+**Study year**: 1st year of BUT  
+**Language**: French  
+**Team size**: 1  
+**Programming language**: C#  
+**Software/Website**: Visual Studio
+
+### Project Description
+
+The goal of this project was to introduce us to HCI by recreating the Minesweeper game in C#. We were asked to follow specific steps to complete a functional game and then personalize it a bit.
+
+### Document Descriptions
+
+- [demineur.sln](demineur.sln)  
+Solution file to open and launch the project in Visual Studio
+- [demineur](demineur)  
+Folder containing the source code of the game
+
 ---
 
 ### Contact
