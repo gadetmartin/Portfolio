@@ -3,6 +3,7 @@
 ### Characteristics
 
 **Study year**: 2nd year of BUT  
+**Course name**: Projet de 2ème année
 **Language**: French  
 **Team size**: 4  
 **Programming language**: Python  

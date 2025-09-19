@@ -7,6 +7,7 @@
 ### Characteristics
 
 **Study year**: 1st year of BUT  
+**Course name**: Développement d’applications avec IHM
 **Language**: French  
 **Team size**: 1  
 **Programming language**: C#  

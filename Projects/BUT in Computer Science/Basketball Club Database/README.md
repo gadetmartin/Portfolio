@@ -3,6 +3,7 @@
 ### Characteristics
 
 **Study year**: 1st year of BUT  
+**Course name**: Exploitation d’une Base de Données
 **Language**: French  
 **Team size**: 2  
 **Programming language**: SQL  

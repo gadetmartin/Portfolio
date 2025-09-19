@@ -3,6 +3,7 @@
 ### Characteristics
 
 **Study year**: 3rd year of BUT  
+**Course name**: Introduction a l'IA
 **Language**: French  
 **Team size**: 3  
 **Programming language**: Python  

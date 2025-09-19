@@ -3,6 +3,7 @@
 ### Characteristics
 
 **Study year**: 2nd year of BUT  
+**Course name**: Programmation Android
 **Language**: French  
 **Team size**: 1  
 **Programming language**: Java  

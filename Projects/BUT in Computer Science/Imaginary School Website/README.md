@@ -3,6 +3,7 @@
 ### Characteristics
 
 **Study year**: 1st year of BUT  
+**Course name**: Interface Web
 **Language**: French  
 **Team size**: 1  
 **Programming language**: HTML, CSS  

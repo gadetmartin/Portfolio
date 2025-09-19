@@ -3,6 +3,7 @@
 ### Characteristics
 
 **Study year**: 3rd year of BUT  
+**Course name**: Projet de 3ème année
 **Language**: French  
 **Team size**: 15  
 **Programming language**: C#  
