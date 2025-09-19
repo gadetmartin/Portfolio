@@ -1,8 +1,23 @@
 # 💡 Magic Light
 
-- 💡 [**Magic Light**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Magic%20Light)  
-  Development of a mobile app that changes the color of a light bulb  
-  *Android Studio, Java, Phone simulation*
+### Characteristics
+
+**Study year**: 2nd year of BUT  
+**Language**: French  
+**Team size**: 1  
+**Programming language**: Java  
+**Software/Website**: Android Studio 
+
+### Project Description
+
+The goal of this project was to create a phone app to chnage the color of a light. After an introduction to Android Studio and phone simulation we start to create the app. At the end it was possible to send the color that we make on the app on a fake light on a website that the professor created to test the project.
+
+### Document Descriptions
+
+- [LampeMagique](LampeMagique)  
+Folder containing the source code of the app
+- [video_demo](https://youtube.com/shorts/sMRojg7X-SU?feature=share)
+Youtube video showing a demonstration of the app
 
 ---
 
