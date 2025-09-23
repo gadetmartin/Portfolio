@@ -1,8 +1,26 @@
 # ⚾ Projects
 
-- ⚾ [**VR Pitcher Trainer**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/VR%20Pitcher%20Trainer)  
-  Creation of a VR Game to train baseball pitchers   
-  *Unity, HTC Vive, Physics*  
+### Characteristics
+
+**Study year**: 1st year of Master's  
+**Course name**: Advanced Immersive Interaction  
+**Language**: English  
+**Team size**: 2  
+**Programming language**:   
+**Software/Website**: Unity, Sketchfab  
+
+### Project Description
+
+The goal of this project was to create a VR or AR game/app for athletes to train in their specific sport. We choose the baseball as the sport and more specifically the pitcher training. The game allow a professionnal pitcher to train in loop with different speed of launchs.
+
+### Document Descriptions
+
+- [project_description.pdf](project_description.pdf)  
+Report detailing the entire project
+- [presentation_slides.pdf](poster.pdf)  
+Document containing the slides explaining the project and its process
+- [video_demo](https://youtu.be/XDMFqjPqH9c)  
+Demonstration video that show how the game looks like
 
 ---
 

@@ -20,11 +20,11 @@ Poster explaining the project during the exhibition
 - [project_description.pdf](project_description.pdf)  
 Report detailing the entire project
 - [guitar.dxf](guitar.dxf)  
-	Laser cutting file for the cardboard guitar
+Laser cutting file for the cardboard guitar
 - [ukulele.dxf](ukulele.dxf)  
-	Laser cutting file for the cardboard ukulele
+Laser cutting file for the cardboard ukulele
 - [pattern_pin.3mf](pattern_pin.3mf)  
-	3D file with the pattern, attachments, and guitar pin
+3D file with the pattern, attachments, and guitar pin
 
 ---
 
