@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("demineur")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6d5850c9a1255ea5b43165ac8345d2e6636b4003")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f15b3a38e46b48a1c7aa2cc76f6a977954577cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("demineur")]
 [assembly: System.Reflection.AssemblyTitleAttribute("demineur")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
