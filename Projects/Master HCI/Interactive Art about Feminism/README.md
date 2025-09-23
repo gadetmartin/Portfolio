@@ -1,8 +1,24 @@
 # 🎨 Interactive Art about Feminism
 
-- 🎨 [**Interactive Art about Feminism**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/Interactive%20Art%20about%20Feminism)  
-  Design an creation of an interactive application that denounces the hatred of women on the internet  
-  *Java, Swing, Message app, Exhibition*  
+### Characteristics
+
+**Study year**: 1st year of Master's  
+**Course name**: Creative Design  
+**Language**: English  
+**Team size**: 4  
+**Programming language**: Java  
+**Software/Website**: Swing  
+
+### Project Description
+
+The goal of this project was to create an interactive piece of art about commons. As a common, we choose social networks and we wanted to denounce the massive online hatred of women. To do that we create an app with Java Swing that display real harrasment messages on women when a user press a button on the keyboard. The user can also add its own messages that it receive to increase the dataset. At the end this projects was exhibit in the Ecole Normale Supérieure building.
+
+### Document Descriptions
+
+- [presentation_slides.pdf](presentation_slides.pdf)  
+Presentation slides explaining the project during the exhibition
+- [project_description.pdf](project_description.pdf)  
+Report detailing the entire project
 
 ---
 

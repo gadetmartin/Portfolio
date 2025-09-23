@@ -1,8 +1,24 @@
-# ⌚ NaWatch
+# ⌚ NaWatch 
 
-- ⌚ [**NaWatch**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/NaWatch)  
-  Design of a wearable device to enhance daily user travels  
-  *Brainstorming, Sketching, Paper prototype video, Scenario*  
+### Characteristics
+
+**Study year**: 1st year of Master's  
+**Course name**: Design of Interactive Systems  
+**Language**: English  
+**Team size**: 4  
+**Programming language**: ∅  
+**Software/Website**: ∅  
+
+### Project Description
+
+The goal of this project was to design a wearable device used for transport and commute. We design a watch that enhance commuting experience by providing real-time transit update, collaborative tools, on the spot translation lense and route sharing.  
+
+### Document Descriptions
+
+- [project_poster.pdf](poster.pdf)  
+Poster explaining the device
+- [video_prototype](https://youtu.be/pHFPfEd2nUM)  
+Video prototype showing a paper prototype of the watch in a case scenario
 
 ---
 
