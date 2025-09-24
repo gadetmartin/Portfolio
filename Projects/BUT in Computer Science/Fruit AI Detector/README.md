@@ -22,8 +22,8 @@ Folder containing the training dataset
 - [ia-fruit-detector/runs](ia-fruit-detector/runs)
 Folder containing the training file
 - [ia-fruit-detector/videos](ia-fruit-detector/videos)
-Folder containing the output videos
--[video_demo](https://youtu.be/GhGpk1ro9mU)
+Folder containing the output videos  
+-[video_demo](https://youtu.be/GhGpk1ro9mU)  
 YouTube video showing a demonstration of the training, the detection and the result
  
 ---
