@@ -7,31 +7,31 @@ The BUT in Computer Science is a multidisciplinary program covering many areas o
 ### BUT in Computer Science projects
 
 - 🏀 [**Basketball Club Database**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Basketball%20Club%20Database)  
-  Creation, insertions and requests of a sport club database  
+  Creation, insertion, and queries for a sports club database  
   *MCD, SQL, MySQL, SGBD*
 
 - 🏫 [**Imaginary School Website**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Imaginary%20School%20Website)  
-  Creation and development of a website for a fake school  
+  Creation and development of a website for a fictional school  
   *HTML, CSS*
 
 - 💣 [**Minesweeper**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Minesweeper)  
-  Development of the famous Minesweeper game  
+  Development of the classic Minesweeper game  
   *C#*
 
 - 🔴 [**Connect 4**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Connect4)  
-  Development of the famous Connect4 game  
+  Development of the classic Connect4 game  
   *Python, PyGame, Online, Menu*
 
 - 💡 [**Magic Light**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Magic%20Light)  
-  Development of a mobile app that changes the color of a light bulb  
+  Development of a mobile app that changes the color of a lightbulb  
   *Android Studio, Java, Phone simulation*
 
 - 🍎 [**Fruit AI Detector**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Fruit%20AI%20Detector)  
-  Development of an AI that can detect apples on a video  
+  Development of an AI that can detect apples in a video  
   *Python, YoloV8, Training*
 
 - 🧱 [**Blockade Game**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Blockade%20Game)  
-  Development of the menus and the interface of a 3D game  
+  Development of the menus and interface of a 3D game  
   *Unity, UI/UX Experience, Game Design*
 
 ---
