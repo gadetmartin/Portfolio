@@ -1,8 +1,4 @@
-# 🍳 CooCubes
-
-- 🍳 [**CooCubes**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/CooCubes)  
-  Design of a device that enhance cooking  
-  *Brainstorming, Story interview, Sketching, Scenario, Storyboard, Paper protype video, Redesign*  
+# 🍳 CooCubes 
 
 ### Characteristics
 
