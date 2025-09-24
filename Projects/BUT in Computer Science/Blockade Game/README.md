@@ -21,7 +21,7 @@ Specification document that explains what the HCI team planned to do in the proj
 - [presentation_slide.pdf](presentation_slide.pdf)  
 Document containing the slides from every team and explanations about parts of the game's development
 - [video_demo](https://youtu.be/ZJ2nOxEonsE)  
-YouTube video showing a demonstration of the menus and the game
+Video showing a demonstration of the menus and the game
 
 ---
 
