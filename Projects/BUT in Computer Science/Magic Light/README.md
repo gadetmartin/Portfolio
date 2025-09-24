@@ -16,8 +16,8 @@ The goal of this project was to create a phone app to chnage the color of a ligh
 ### Document Descriptions
 
 - [LampeMagique](LampeMagique)  
-Folder containing the source code of the app
-- [video_demo](https://youtube.com/shorts/sMRojg7X-SU?feature=share)
+Folder containing the source code of the app  
+- [video_demo](https://youtube.com/shorts/sMRojg7X-SU?feature=share)  
 Youtube video showing a demonstration of the app
 
 ---
