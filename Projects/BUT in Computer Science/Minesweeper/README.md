@@ -23,6 +23,8 @@ The goal of this project was to introduce us to HCI by recreating the Minesweepe
 Solution file to open and launch the project in Visual Studio
 - [demineur](demineur)  
 Folder containing the source code of the game
+- [video_demo](https://youtube.com/shorts/BZHzsgwWmrQ?feature=share)  
+Video showing what the game looks like
 
 ---
 
