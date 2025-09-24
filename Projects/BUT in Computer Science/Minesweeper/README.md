@@ -1,9 +1,5 @@
 # 💣 Minesweeper
 
-- 💣 [**Minesweeper**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Minesweeper)  
-  Development of the famous Minesweeper game  
-  *C#*
-
 ### Characteristics
 
 **Study year**: 1st year of BUT  
