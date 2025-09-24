@@ -15,15 +15,15 @@ The goal of this project was to create a functional AI. We chose to develop an A
 
 ### Document Descriptions
 
-- [ia-fruit-detector](ia-fruit-detector)  
+- [ia-fruit-detector](ia-fruit-detector)    
 Folder containing the source code of the project
-- [ia-fruit-detector/data](ia-fruit-detector/data)
+- [ia-fruit-detector/data](ia-fruit-detector/data)  
 Folder containing the training dataset
-- [ia-fruit-detector/runs](ia-fruit-detector/runs)
+- [ia-fruit-detector/runs](ia-fruit-detector/runs)  
 Folder containing the training file
-- [ia-fruit-detector/videos](ia-fruit-detector/videos)
+- [ia-fruit-detector/videos](ia-fruit-detector/videos)  
 Folder containing the output videos  
--[video_demo](https://youtu.be/GhGpk1ro9mU)  
+- [video_demo](https://youtu.be/GhGpk1ro9mU)  
 YouTube video showing a demonstration of the training, the detection and the result
  
 ---
