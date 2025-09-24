@@ -19,11 +19,11 @@ The goal of this project was to experience the entire design process, from the i
 Document containing the first pictorial of the project
 - [pictorial_presentation.pdf](pictorial_presentation.pdf)  
 Document containing the slides to present the first pictorial
-- [prototype.html](prototype.html)
+- [prototype.html](prototype.html)  
 HTML file of the high-fidelity prototype of the app
-- [prototype_evaluation.pdf](prototype_evaluation.pdf)
+- [prototype_evaluation.pdf](prototype_evaluation.pdf)  
 Evaluation document from another team about our prototype
-- [video_demo](https://youtu.be/gljo7C7Ndh8)
+- [video_demo](https://youtu.be/gljo7C7Ndh8)  
 Video showing the high-fidelity prototype of the app
 - [backward_planning.pdf](backward_planning.pdf)  
 Document containing the writing planning of the paper about the app
