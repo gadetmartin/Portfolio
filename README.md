@@ -1,7 +1,7 @@
 # 📂 Portfolio
 
 ## 🙋 Portfolio of Martin GADET
-Welcome to my university projects portfolio  
+Welcome to my university projects portfolio.  
 
 My name is **Martin GADET** and I'm a **Master 2 student in Human Computer Interaction** at *Université Paris-Saclay*.  
 
