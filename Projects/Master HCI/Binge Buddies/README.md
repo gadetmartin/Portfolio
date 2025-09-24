@@ -1,9 +1,5 @@
 # 🍿 Binge Buddies
 
-- 🍿 [**Binge Buddies**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/Binge%20Buddies)  
-  Design of an application to allow a group of users to choose content to watch via a vote and watch it online simultaneously  
-  *Brainstorming, Story interview, Prototypes, Scenario, User tests, Literature review, Research paper writting*
-
 ### Characteristics
 
 **Study year**: 1st year of Master's  
