@@ -1,9 +1,5 @@
 # 🧩 Puzzle Game
 
-- 🧩 [**Puzzle Game**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/Puzzle%20Game)  
-  Creation of new and fun menus for a puzzle game  
-  *MVC Model, Java, Swing*  
-
 ### Characteristics
 
 **Study year**: 1st year of Master's  
