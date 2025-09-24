@@ -11,7 +11,7 @@
 
 ### Project Description
 
-The goal of this project was to design a wearable device used for transport and commute. We design a watch that enhance commuting experience by providing real-time transit update, collaborative tools, on the spot translation lense and route sharing.  
+The goal of this project was to design a wearable device for transport and commuting. We designed a watch that enhances the commuting experience by providing real-time transit updates, collaborative tools, on-the-spot translation lens, and route sharing.  
 
 ### Document Descriptions
 

@@ -1,6 +1,6 @@
 # 📂 BUT in Computer Science Projects
 
-> Most and even all project in BUT in Computer Science will be in **French** due to the fact that this Bachelor is in **French**.
+> Most, if not all, projects in the BUT in Computer Science program are in **French** because the program is taught in **French**.
 
 The BUT in Computer Science is a multidisciplinary program covering many areas of IT, including databases, AI, HCI, and web technologies. Throughout the course, I had the opportunity to learn several programming languages such as C++, C#, HTML, Java, Python, SQL, and more. We also carried out diverse projects to apply this knowledge in practice while developing soft skills such as teamwork, autonomy, creativity, and problem-solving.
 

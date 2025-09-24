@@ -11,7 +11,7 @@
 
 ### Project Description
 
-The goal of this project was to design an experiment to test the preattention of  visual variables. Firstly determine if two specific visual variables in isolation are preattentive or not, then determine if they are less preattentive when combined. We choose color and size as visual variables and then design and programmed the whole experiment.
+The goal of this project was to design an experiment to test the preattentiveness of visual variables. First, we determined if two specific visual variables in isolation are preattentive or not, then assessed if they are less preattentive when combined. We chose color and size as the visual variables, and then designed and programmed the entire experiment.
 
 ### Document Descriptions
 
@@ -20,7 +20,7 @@ Logs of the experiment
 - [project_description.pdf](project_description.pdf)  
 Report detailing the entire project
 - [python_notebook.ipynb](python_notebook.ipynb)  
-Python Notebook file to analyzed results and logs
+Python Notebook file to analyze results and logs
 
 ---
 

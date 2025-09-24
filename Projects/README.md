@@ -1,9 +1,9 @@
 # 📂 Projects
 
-> For information, some of these projects were made using French and others using English.  
-For these reasons you will find documents that are in French and others that are in English.
+> For your information, some of these projects were made in French and others in English.  
+For this reason, you will find documents that are in French and others that are in English.
 
-Here is the list of every projects you will find in this portfolio. Those projects extends from **2021** to **today** and concers university projects in **BUT** in Computer Science and **Master** in Human-Computer Interaction, both at *Université Paris-Saclay*.
+Here is the list of all the projects you will find in this portfolio. These projects span from **2021** to **today** and concern university projects in the **BUT** in Computer Science and the **Master** in Human-Computer Interaction, both at *Université Paris-Saclay*.
 
 ### BUT in Computer Science projects
 

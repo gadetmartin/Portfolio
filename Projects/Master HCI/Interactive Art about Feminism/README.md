@@ -11,7 +11,7 @@
 
 ### Project Description
 
-The goal of this project was to create an interactive piece of art about commons. As a common, we choose social networks and we wanted to denounce the massive online hatred of women. To do that we create an app with Java Swing that display real harrasment messages on women when a user press a button on the keyboard. The user can also add its own messages that it receive to increase the dataset. At the end this projects was exhibit in the Ecole Normale Supérieure building.
+The goal of this project was to create an interactive piece of art about commons. As a common, we chose social networks and wanted to denounce the massive online hatred directed at women. To do this, we created an app with Java Swing that displays real harassment messages received by women when a user presses a button on the keyboard. The user can also add their own messages that they have received to increase the dataset. In the end, this project was exhibited in the École Normale Supérieure building.
 
 ### Document Descriptions
 

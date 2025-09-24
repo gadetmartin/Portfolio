@@ -1,4 +1,4 @@
-# 🖨️ 3D printed Tangible Surface
+# 🖨️ 3D Printed Tangible Surface
 
 ### Characteristics
 
@@ -11,7 +11,7 @@
 
 ### Project Description
 
-The goal of this project was to create a tangible and alterable surface made of 3D-printed, flat, repetitive patterns. After an introduction to the different software tools, we chose, designed, and modeled our pattern in Autodesk Fusion 360. We created some prototypes using laser-cut paper sheets to test attachment techniques, etc., and then moved on to real 3D printing. In the end, it was possible to shape this surface into a 3D object. Personally, I chose to make a guitar strap, a ukulele transport case, and a tote bag. Finally, the objects were exhibited in an exhibition room at the École Normale Supérieure building.
+The goal of this project was to create a tangible and modifiable surface made of 3D-printed, flat, repetitive patterns. After an introduction to the different software tools, we chose, designed, and modeled our pattern in Autodesk Fusion 360. We created prototypes using laser-cut paper sheets to test attachment techniques, and then moved on to actual 3D printing. In the end, it was possible to shape this surface into a 3D object. Personally, I chose to make a guitar strap, a ukulele transport case, and a tote bag. Finally, the objects were exhibited in an exhibition room at the École Normale Supérieure building.
 
 ### Document Descriptions
 

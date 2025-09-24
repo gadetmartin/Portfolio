@@ -11,14 +11,14 @@
 
 ### Project Description
 
-The goal of this project was to create a game that use tangible interactions and augmented reality. We choose to make a kind of Minecraft in AR where the user can choose his blocks and materials by interacting with tangible cards and then build 3D things in AR using his phone.
+The goal of this project was to create a game that uses tangible interactions and augmented reality. We chose to make a kind of Minecraft in AR where the user can choose blocks and materials by interacting with tangible cards and then build 3D objects in AR using their phone.
 
 ### Document Descriptions
 
 - [project_description.pdf](project_description.pdf)  
 Report detailing the entire project
 - [tangible_cards](tangible_cards)  
-Folder containing the tangibel cards used in the project
+Folder containing the tangible cards used in the project
 
 ---
 

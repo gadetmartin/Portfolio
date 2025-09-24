@@ -15,8 +15,8 @@ My name is **Martin GADET** and I'm a **Master 2 student in Human Computer Inter
 
 ## 🚀 My Projects
 
-> For information, some of these projects were made using French and others using English.  
-For these reasons you will find documents that are in French and others that are in English.
+> For your information, some of these projects were made in French and others in English.  
+For this reason, you will find documents that are in French and others that are in English.
 
 ### BUT in Computer Science projects
 

@@ -1,4 +1,4 @@
-# ⚾ Projects
+# ⚾ VR Pitcher Trainer
 
 ### Characteristics
 
@@ -11,7 +11,7 @@
 
 ### Project Description
 
-The goal of this project was to create a VR or AR game/app for athletes to train in their specific sport. We choose the baseball as the sport and more specifically the pitcher training. The game allow a professionnal pitcher to train in loop with different speed of launchs.
+The goal of this project was to create a VR or AR game/app for athletes to train in their specific sport. We chose baseball as the sport, and more specifically, pitcher training. The game allows a professional pitcher to train repeatedly with different pitching speeds.
 
 ### Document Descriptions
 
@@ -20,7 +20,7 @@ Report detailing the entire project
 - [presentation_slides.pdf](poster.pdf)  
 Document containing the slides explaining the project and its process
 - [video_demo](https://youtu.be/XDMFqjPqH9c)  
-Demonstration video that show how the game looks like
+Demonstration video that shows what the game looks like
 
 ---
 

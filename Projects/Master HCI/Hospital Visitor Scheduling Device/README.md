@@ -11,12 +11,12 @@
 
 ### Project Description
 
-The goal of this project was to design a device and an interface for a Hospital setting. We choose to design an Interactive Hospital Visitor Scheduling App that allow visititor to plan visit with hospitalized person.
+The goal of this project was to design a device and an interface for a hospital setting. We chose to design an Interactive Hospital Visitor Scheduling App that allows visitors to plan visits with hospitalized people.
 
 ### Document Descriptions
 
 - [case_scenario.pdf](case_scenario.pdf)  
-Document describing a case scenario of the device 
+Document describing a case scenario of the device
 - [design_description.pdf](project_description.pdf)  
 Report detailing the entire project
 - [presentation_slides.pdf](poster.pdf)  

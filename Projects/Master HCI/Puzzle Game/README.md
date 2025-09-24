@@ -11,16 +11,16 @@
 
 ### Project Description
 
-The goal of this project was to create a puzzle game where the user can interact differently than a puzzle game that already exist. I personnally took care of the menus of the game and I decided to create 2 menus. A "normal menu" where there is no new interactions and a "fun menu" where the interactions or more fun and look more like a mini game.
+The goal of this project was to create a puzzle game where the user can interact differently than in existing puzzle games. I personally took care of the game menus and decided to create two menus: a "normal menu" with standard interactions, and a "fun menu" where the interactions are more entertaining and resemble a mini-game.
 
 ### Document Descriptions
 
 - [maquette.png](maquette.png)  
-Document containing a transcription of a story interview of a cooker
+Image of the project's high-fidelity prototype
 - [Puzzle-Game](Puzzle-Game)  
 Folder containing the source code of the project
 - [video_demo](https://youtu.be/EstWrrhGMh4)  
-Video showing a demonstration a the menus of the game
+Video showing a demonstration of the menus of the game
   
 ---
 
