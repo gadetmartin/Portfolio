@@ -7,7 +7,7 @@
 **Language**: English  
 **Team size**: 5  
 **Programming language**: HTML, CSS, JavaScript  
-**Software/Website**: Draw.io  
+**Software/Website**: Draw.io, Visual Studio Code
 
 ### Project Description
 
