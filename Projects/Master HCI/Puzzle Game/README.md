@@ -7,7 +7,7 @@
 **Language**: English  
 **Team size**: 2  
 **Programming language**: Java  
-**Software/Website**: Swing  
+**Software/Website**: Swing, Eclipse  
 
 ### Project Description
 
