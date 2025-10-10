@@ -35,6 +35,8 @@ Document containing the evaluation form for the final app
 Document containing the final presentation slides
 - [TER_BingeBuddies.pdf](TER_BingeBuddies.pdf)  
 Document containing the final paper that explains the whole project
+- [video_demo](https://youtu.be/wEpocnhQnTg)  
+Video showing a demonstration of the web application
 
 ---
 
