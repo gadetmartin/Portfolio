@@ -23,7 +23,7 @@ Document containing the slides to present the first pictorial
 HTML file of the high-fidelity prototype of the app
 - [prototype_evaluation.pdf](prototype_evaluation.pdf)  
 Evaluation document from another team about our prototype
-- [video_demo](https://youtu.be/gljo7C7Ndh8)  
+- [video_demo_prototype](https://youtu.be/gljo7C7Ndh8)  
 Video showing the high-fidelity prototype of the app
 - [backward_planning.pdf](backward_planning.pdf)  
 Document containing the writing planning of the paper about the app
@@ -35,7 +35,7 @@ Document containing the evaluation form for the final app
 Document containing the final presentation slides
 - [TER_BingeBuddies.pdf](TER_BingeBuddies.pdf)  
 Document containing the final paper that explains the whole project
-- [video_demo](https://youtu.be/EW28VevIyIQ)
+- [video_demo](https://youtu.be/EW28VevIyIQ)  
 Video showing a demonstration of the web application
 
 ---
