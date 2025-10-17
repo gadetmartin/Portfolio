@@ -102,7 +102,11 @@ For this reason, you will find documents that are in French and others that are 
 
 - 🖨️ [**3D printed Tangible Surface**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/3D%20Printed%20Tangible%20Surface)  
   Creation of a tangible and alterable surface made of 3D-printed flat repetitive patterns  
-  *Modeling, 3D printing, Laser cutting, XTool Creative Space, PrusaSlicer, Autodesk Fusion 360*  
+  *Modeling, 3D printing, Laser cutting, XTool Creative Space, PrusaSlicer, Autodesk Fusion 360*
+
+- 🦖 [**Jurassic AR**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/Jurassic%AR)  
+  Creation of a video to sell a fictional AR app to see dinosaurs in real life    
+  *Blender, Sketchfab, Motion Tracking, Animation, Video Editing*
   
 ---
 
