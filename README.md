@@ -46,7 +46,7 @@ For this reason, you will find documents that are in French and others that are 
 
 - 🧱 [**Blockade Game**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/BUT%20in%20Computer%20Science/Blockade%20Game)  
   Development of the menus and interface of a 3D game  
-  *Unity, UI/UX Experience, Game Design*
+  *Unity, UI/UX Design, Game Design*
 
 ---
 
@@ -81,7 +81,7 @@ For this reason, you will find documents that are in French and others that are 
   *Sketching, Literature review, Kaggle, CNN*  
 
 - 🍳 [**CooCubes**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/CooCubes)  
-  Design of a device that enhances cooking  
+  Design of a device that enhances cooking experience 
   *Brainstorming, Story interview, Sketching, Scenario, Storyboard, Paper protype video, Redesign*  
 
 - 👁️ [**Experimental Design**](https://github.com/gadetmartin/Portfolio/tree/main/Projects/Master%20HCI/Experimental%20Design)  
