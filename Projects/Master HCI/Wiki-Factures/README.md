@@ -11,7 +11,22 @@
 
 ### Project Description
 
-The goal of this project was to create a VR game where the user is teleported into a science fair and can interact with experiments that use physics and sound.
+My role during the internship included the creation of an interactive and intuitive documentation wiki
+for the MPF team of Orange France that would help with invoicing processes. My first step was to
+study the existing documentation, the needs of the team, and the problems associated with accessing
+the invoicing knowledge. I did some research, studied the documentation, and did interviews with the
+members of the team to understand their problems. As a result, I conducted some brainstorming in
+order to determine the scope and structure of the documentation. Then I created a paper prototype of
+the wiki and tested it with team members to get some feedback on the design of the wiki. After that,
+I developed a high-fidelity prototype of the wiki, using Figma, integrating interactive invoice
+compositions, interactive IS diagrams, search engine, and administrator menus. I have also been
+researching technical implementation options for a MVP version of the application, choosing
+MkDocs due to its simplicity and usability. While developing this project, I have improved my skills
+in UX/UI design, user testing and technical prototyping in cooperation with other team members and
+future users. In addition, my contribution in this project will help to unify and facilitate access to
+information related to invoicing, which will optimize documentation, avoid knowledge loss and
+enable further updates. This way, this project will help the department in reaching their goals in
+mastering invoicing knowledge.
 
 ### Document Descriptions
 
