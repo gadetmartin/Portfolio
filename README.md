@@ -7,9 +7,8 @@ My name is **Martin GADET** and I'm a **second-year Master's student in Human-Co
 
 ---
 
-### 📄 My Resume/CV
-- [Resume in English](CV/Resume_Martin_GADET.pdf)  
-- [CV in French](CV/CV_Martin_GADET.pdf)
+### 📄 My Resume
+- [CV](CV/CV_Martin_GADET.pdf)
 
 ---
 
