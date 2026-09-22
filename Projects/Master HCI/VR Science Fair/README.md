@@ -35,6 +35,4 @@ Demonstration video that shows what the science fair game looks like
 👤 Martin GADET  
 📧 gadet.martin@gmail.com  
 📞 06 31 60 40 53  
-🎓 Master Human-Computer Interaction  
-🏫 Université Paris-Saclay
 
