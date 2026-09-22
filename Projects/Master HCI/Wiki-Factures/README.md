@@ -11,10 +11,6 @@
 
 ### Project Description
 
-Here's your text reformatted in Markdown with key terms bolded:
-
----
-
 My role during the internship included the creation of an **interactive and intuitive documentation wiki** for the **MPF team** of Orange France that would help with **invoicing processes**.
 
 My first step was to **study the existing documentation**, the needs of the team, and the problems associated with accessing the invoicing knowledge. I did some research, studied the documentation, and did **interviews** with the members of the team to understand their problems.
