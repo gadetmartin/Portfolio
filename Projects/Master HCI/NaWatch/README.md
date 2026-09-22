@@ -27,6 +27,4 @@ Video prototype showing a paper prototype of the watch in a case scenario
 👤 Martin GADET  
 📧 gadet.martin@gmail.com  
 📞 06 31 60 40 53  
-🎓 Master Human-Computer Interaction  
-🏫 Université Paris-Saclay
 
